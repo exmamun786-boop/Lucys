@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "ralovij696@wikfee.com",
-    "password": "imrafi69",
+    "email": "exmamun786@gmail.com",
+    "password": "mamun143#@",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,17 +17,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100077513002567",
-    "",
-    ""
+    "61580322062833",
+    "61582341275575",
+    "61582335153066"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ｌｕｃｙ 💜",
-  "prefix": ".",
+  "nickNameBot": "pookie 🎀🙂",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -38,7 +38,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "andylabaco@gmail.com",
+      "email": "exmamun786@gmail.com",
       "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
